@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         avenir: ["Avenir", "sans-serif"],
+        opticon: ["Opticon", "sans-serif"],
       },
       colors: {
         soft: "#B1B1B1",
